@@ -46,18 +46,6 @@ The goal of the venture is to give ease in plausibility to both staff and client
 
 
 
-### USER PRIVILAGES & ROLE GRANTS:
-
-![Create user proof](https://user-images.githubusercontent.com/64021315/129183976-eb1d5c91-6557-478f-aa4d-21686ee225be.PNG)
-
-![grantPrev](https://user-images.githubusercontent.com/64021315/129184061-0255ac11-0251-4ccb-b524-dc1deb0b53c3.PNG)
-
-![grantstorole(Owner)](https://user-images.githubusercontent.com/64021315/129184071-5e86773b-e0a6-48b0-ae29-a5293b371179.PNG)
-
-![roletoFashad](https://user-images.githubusercontent.com/64021315/129184082-c01b0559-89a4-4e9b-a900-a893e5a9982e.PNG)
-
-![schemaInUser](https://user-images.githubusercontent.com/64021315/129184124-d954cbae-31c2-4cd0-a6e2-450defbb7619.png)
-
 ### NOTE:
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) </br>
 
