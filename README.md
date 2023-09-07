@@ -50,8 +50,6 @@ The goal of the venture is to give ease in plausibility to both staff and client
 
 ![Create user proof](https://user-images.githubusercontent.com/64021315/129183976-eb1d5c91-6557-478f-aa4d-21686ee225be.PNG)
 
-![user proof 2](https://user-images.githubusercontent.com/64021315/129184019-503f1406-d4ec-4f36-8f79-4fb9e56053d7.png)
-
 ![grantPrev](https://user-images.githubusercontent.com/64021315/129184061-0255ac11-0251-4ccb-b524-dc1deb0b53c3.PNG)
 
 ![grantstorole(Owner)](https://user-images.githubusercontent.com/64021315/129184071-5e86773b-e0a6-48b0-ae29-a5293b371179.PNG)
